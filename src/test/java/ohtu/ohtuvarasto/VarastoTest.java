@@ -131,7 +131,7 @@ public class VarastoTest {
     
     @Test
     public void tulostuksenMuotoOikein() {
-        // "saldo = " + saldo + ", vielä tilaa " + paljonkoMahtuu());
+        
         varasto.lisaaVarastoon(2);
 
         assertTrue("Tulostus virheellisessä muodossa:" + varasto.toString(), varasto.toString().equals("saldo = 2.0, vielä tilaa 8.0"));
