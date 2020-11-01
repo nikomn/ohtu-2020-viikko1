@@ -1,3 +1,3 @@
 # ohtu-2020-viikko1
 
-![Github Actions]https://github.com/nikomn/ohtu-202-viikko1/workflows/Java%20CI%20with%20Gradle/badge.svg
+![Github Actions]https://github.com/nikomn/ohtu-2020-viikko1/workflows/Java%20CI%20with%20Gradle/badge.svg
